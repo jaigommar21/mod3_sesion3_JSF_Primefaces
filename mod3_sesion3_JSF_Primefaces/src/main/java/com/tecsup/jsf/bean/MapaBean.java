@@ -11,6 +11,7 @@ import org.primefaces.model.map.Marker;
 @RequestScoped
 public class MapaBean {
 
+	// Definicion del modelo de mapa
 	private MapModel modelo = new DefaultMapModel();
 
 	public MapaBean() {
